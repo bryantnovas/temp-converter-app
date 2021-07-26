@@ -1,0 +1,2 @@
+com/example/tempconverter/BuildConfig.java
+ com.example.tempconverter.BuildConfig

@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/8653d3df5091c97bc87529eb9d0ea8f7/core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/79e9e18bf951ab23325d89b95e5bd008/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/a9311d74d80edcfc384ea90c9cbb4fb3/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/9406b2b1267297fc017e7027d8bc30bc/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/dafeb60989f149d261f75912da5819c3/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/c93a4334315be256c9362c3cef48823e/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/3a82be62ce1ccb11a27f6ec84dd58a17/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/715842898e8d0f21c004cfc21e10f9e2/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/8e6a20d7fc9c099ccd7eba17798bb58f/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/1d8550c1f5de451c55fc6403408c54e6/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/31a64ca6ed8676f803ec755f43a77806/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/f04385de59c26420d58d147a9a74fe51/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/35b89a7df077b7fd54f833295eaf549b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/bcf16181c4de1d212fa3db965560e89d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/6c78ffbf2ecaa3084ddaf086701de3ab/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/f953ab4f37885764354d84ddfde52cef/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/5db7002fd679cf8fc5b68e26cfdd44d3/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/47da25a8071eb2561694b00579e1fc79/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/6beb34cd66cfb7058da4244864872e09/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/b46b3f9f320747dbae98e35027f70956/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/ae71b49633f9b372d469408f62de480f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/1b015f00e2135f3de97021393aae81ef/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/397c0abf3f64d15d6ad4dafae7da9d36/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/9c9ceaa32745ca9137c1deb8f41d677e/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/467156583574eb755c4e2afa393e7e04/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/7565da836257268c70c5556d1df8a86b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/b7d3bc9f3d8c3249ad9023cc72797d80/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/f6269bf09fa88fdbdd5c2efc078c3bfe/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/7a55bdc87a9059b51623c3e7b0ef17ea/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/79e9e18bf951ab23325d89b95e5bd008/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/79e9e18bf951ab23325d89b95e5bd008/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/a9311d74d80edcfc384ea90c9cbb4fb3/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/a9311d74d80edcfc384ea90c9cbb4fb3/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/47da25a8071eb2561694b00579e1fc79/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/47da25a8071eb2561694b00579e1fc79/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/ae71b49633f9b372d469408f62de480f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/ae71b49633f9b372d469408f62de480f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/47da25a8071eb2561694b00579e1fc79/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:11:9-51
+activity#com.example.tempconverter.MainActivity
+ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/8653d3df5091c97bc87529eb9d0ea8f7/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/8653d3df5091c97bc87529eb9d0ea8f7/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/79e9e18bf951ab23325d89b95e5bd008/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/79e9e18bf951ab23325d89b95e5bd008/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/a9311d74d80edcfc384ea90c9cbb4fb3/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/a9311d74d80edcfc384ea90c9cbb4fb3/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/9406b2b1267297fc017e7027d8bc30bc/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/9406b2b1267297fc017e7027d8bc30bc/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/dafeb60989f149d261f75912da5819c3/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/dafeb60989f149d261f75912da5819c3/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/c93a4334315be256c9362c3cef48823e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/c93a4334315be256c9362c3cef48823e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/3a82be62ce1ccb11a27f6ec84dd58a17/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/3a82be62ce1ccb11a27f6ec84dd58a17/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/715842898e8d0f21c004cfc21e10f9e2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/715842898e8d0f21c004cfc21e10f9e2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/8e6a20d7fc9c099ccd7eba17798bb58f/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/8e6a20d7fc9c099ccd7eba17798bb58f/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/1d8550c1f5de451c55fc6403408c54e6/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/1d8550c1f5de451c55fc6403408c54e6/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/31a64ca6ed8676f803ec755f43a77806/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/31a64ca6ed8676f803ec755f43a77806/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/f04385de59c26420d58d147a9a74fe51/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/f04385de59c26420d58d147a9a74fe51/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/35b89a7df077b7fd54f833295eaf549b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/35b89a7df077b7fd54f833295eaf549b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/bcf16181c4de1d212fa3db965560e89d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/bcf16181c4de1d212fa3db965560e89d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/6c78ffbf2ecaa3084ddaf086701de3ab/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/6c78ffbf2ecaa3084ddaf086701de3ab/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/f953ab4f37885764354d84ddfde52cef/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/f953ab4f37885764354d84ddfde52cef/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/5db7002fd679cf8fc5b68e26cfdd44d3/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/5db7002fd679cf8fc5b68e26cfdd44d3/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/47da25a8071eb2561694b00579e1fc79/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/bryant/.gradle/caches/transforms-2/files-2.1/47da25a8071eb2561694b00579e1fc79/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/6beb34cd66cfb7058da4244864872e09/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/6beb34cd66cfb7058da4244864872e09/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/b46b3f9f320747dbae98e35027f70956/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/b46b3f9f320747dbae98e35027f70956/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/ae71b49633f9b372d469408f62de480f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/ae71b49633f9b372d469408f62de480f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/1b015f00e2135f3de97021393aae81ef/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/1b015f00e2135f3de97021393aae81ef/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/397c0abf3f64d15d6ad4dafae7da9d36/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/397c0abf3f64d15d6ad4dafae7da9d36/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/9c9ceaa32745ca9137c1deb8f41d677e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/9c9ceaa32745ca9137c1deb8f41d677e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/467156583574eb755c4e2afa393e7e04/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/467156583574eb755c4e2afa393e7e04/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/7565da836257268c70c5556d1df8a86b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/7565da836257268c70c5556d1df8a86b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/b7d3bc9f3d8c3249ad9023cc72797d80/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/b7d3bc9f3d8c3249ad9023cc72797d80/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/f6269bf09fa88fdbdd5c2efc078c3bfe/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/f6269bf09fa88fdbdd5c2efc078c3bfe/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/7a55bdc87a9059b51623c3e7b0ef17ea/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/bryant/.gradle/caches/transforms-2/files-2.1/7a55bdc87a9059b51623c3e7b0ef17ea/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bryant/AndroidStudioProjects/TempConverter/app/src/main/AndroidManifest.xml
