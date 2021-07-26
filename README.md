@@ -11,4 +11,4 @@ Temperature Converter (from Celsius to Fahrenheit and vice versa) using Android 
 
 1. Converts temperature from Celsius to Fahrenheit
 2. Converts temperature from Fahrenheit to Celsius
-3. Clears the outcome with clear button
+3. Clears the outcome with reset button
