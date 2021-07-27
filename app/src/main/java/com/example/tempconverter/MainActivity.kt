@@ -9,18 +9,19 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
         val convertButton: Button = findViewById(R.id.convert)
         val resetButton: Button = findViewById(R.id.reset)
         val celciusInput: EditText = findViewById(R.id.celcius)
         val farenheitInput: EditText = findViewById(R.id.farenheit)
 
         convertButton.setOnClickListener {
-            val focus = currentFocus?.id.toString()
-            if(focus == "2131231097"){
+            val currentlyFocused: String = resources.getResourceEntryName(currentFocus!!.id);
+            if(currentlyFocused == "celcius" ){
                var calc = toFarenheit(celciusInput.text.toString())
                 farenheitInput.setText(calc)
             }
-            else if(focus == "2131231099"){
+            else if(currentlyFocused == "farenheit"){
                 var calc = toCelcius(farenheitInput.text.toString())
                 celciusInput.setText(calc)
             }
